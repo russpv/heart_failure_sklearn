@@ -22,6 +22,10 @@ Row ordered anonymized clinical patient data of 4000 patients with ~1500 differe
 - Logistic Regression
 - SVM
 
-## Evalution
+## Evaluation
 
 K-fold and randomized K-fold methods.
+- F1 score
+- Accuracy
+- Precision
+- Recall
